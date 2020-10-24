@@ -1,2 +1,2 @@
 # lenDen
-Buy sell products
+Buy sell products with ease
