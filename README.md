@@ -1,2 +1,2 @@
 # lenDen Partners Pvt Ltd
-Buy sell products with ease
+Buy sell product with ease
