@@ -1,3 +1,3 @@
 # lenDen Partners Pvt Ltd
-Buy sell product at lenden
+Buy sell product at lenden corp
 
